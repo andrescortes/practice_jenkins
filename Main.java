@@ -1,6 +1,6 @@
 class Main{
 	public static void main(String[] args){
 		System.out.println("Hello world, from java");
-		System.out.println("The conect with github was success");
+		System.out.println("The connect with github was success");
 	}
 }
