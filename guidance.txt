@@ -1,0 +1,2 @@
+url: https://ngrok.com/download
+expose our jenkins to webhook, add it to projects in github projects, settings add webhook, type: aplication/json
